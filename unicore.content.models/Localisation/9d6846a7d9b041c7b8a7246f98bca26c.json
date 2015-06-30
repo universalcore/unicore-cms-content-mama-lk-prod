@@ -3,13 +3,13 @@
   "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "sin_LK", 
   "image": null, 
-  "logo_text": "", 
+  "logo_text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dba\u0db1\u0dca \u0dc4\u0dcf \u0daf\u0dd9\u0db8\u0dcf\u0db4\u0dd2\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca ", 
   "logo_image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
